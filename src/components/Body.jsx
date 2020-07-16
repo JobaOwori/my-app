@@ -27,6 +27,12 @@ class Body extends Component {
             voluptatum non mollitia? At voluptates nam ea omnis minus a dolor!
             Tenetur sint quaerat ex deserunt voluptatibus quas eos ea at!
           </p>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste
+            doloribus qui maiores eveniet sequi tempore voluptatibus molestias
+            non quaerat? Officia, voluptatum itaque. Fugit obcaecati ad deserunt
+            deleniti, voluptatibus dicta placeat.
+          </p>
         </div>
       </div>
     );

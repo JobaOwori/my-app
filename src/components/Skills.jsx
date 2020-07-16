@@ -4,15 +4,23 @@ class Skills extends Component {
   state = {};
   render() {
     return (
-      <div>
+      <div style={{ float: "center" }}>
         <h4>SKILLS</h4>
-        <div>
-          <ul className="align-left">
-            <li>Javascript 3/5</li>
-            <li>NodeJS 2/5</li>
-            <li>CSS 3/5</li>
-            <li>Jokes 5/5</li>
-          </ul>
+        <div className="container-small">
+          <table>
+            <th>
+              <tr>Javascript</tr>
+              <tr>NodeJS</tr>
+              <tr>CSS</tr>
+              <tr>Jokes</tr>
+            </th>
+            <th>
+              <tr>3/5</tr>
+              <tr>2/5</tr>
+              <tr>3/5</tr>
+              <tr>5/5</tr>
+            </th>
+          </table>
         </div>
       </div>
     );
