@@ -6,9 +6,9 @@ class Header extends Component {
       <div id="home">
         <div>
           <b>
-            <h2>OWORI JOAB</h2>
+            <h4>OWORI JOAB</h4>
           </b>
-          <hr />
+
           <h5>Software developer</h5>
         </div>
       </div>

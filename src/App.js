@@ -11,6 +11,8 @@ function App() {
   return (
     <div className="App">
       <div className="container-fluid">
+        <Header></Header>
+        <hr></hr>
         <div className="row">
           <div className="col-5">
             <div className="contacts">
@@ -22,7 +24,6 @@ function App() {
             <Skills></Skills>
           </div>
           <div className="col-7">
-            <Header></Header>
             <Body></Body>
           </div>
         </div>
