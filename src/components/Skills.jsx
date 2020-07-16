@@ -7,11 +7,11 @@ class Skills extends Component {
       <div>
         <h4>SKILLS</h4>
         <div>
-          <ul>
-            <li>Javascript</li>
-            <li>NodeJS</li>
-            <li>CSS</li>
-            <li>Jokes</li>
+          <ul className="align-left">
+            <li>Javascript 3/5</li>
+            <li>NodeJS 2/5</li>
+            <li>CSS 3/5</li>
+            <li>Jokes 5/5</li>
           </ul>
         </div>
       </div>

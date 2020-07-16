@@ -9,10 +9,18 @@ import Body from "./components/Body.jsx";
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      <Body></Body>
-      <Skills></Skills>
-      <Contacts></Contacts>
+      <div className="container-fluid">
+        <div className="row">
+          <div className="col-5">
+            <Contacts></Contacts>
+            <Skills></Skills>
+          </div>
+          <div className="col-7">
+            <Header></Header>
+            <Body></Body>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
