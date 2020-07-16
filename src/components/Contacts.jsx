@@ -5,10 +5,17 @@ class Contacts extends Component {
   render() {
     return (
       <div>
-        <img src=".\public\IMG-20160409-WA0001.jpg" alt="Photo of me" />
-        <ul></ul>
-        <ul></ul>
-        <ul></ul>
+        <div>
+          {" "}
+          <img src="/public/IMG-20160409-WA0001.jpg" alt="Me" />
+        </div>
+        <div>
+          <h4>CONTACTS</h4>
+          <ul>
+            <li>Telephone: 0782010301</li>
+            <li>Email: oworijoabcolllines@gmail.com</li>
+          </ul>
+        </div>
       </div>
     );
   }
