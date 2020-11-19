@@ -11,12 +11,14 @@ class Skills extends Component {
             <th>
               <tr>Javascript</tr>
               <tr>NodeJS</tr>
+              <tr>React<tr>
               <tr>CSS</tr>
               <tr>Jokes</tr>
             </th>
             <th>
               <tr>3/5</tr>
               <tr>2/5</tr>
+              <tr>3/5<tr>
               <tr>3/5</tr>
               <tr>5/5</tr>
             </th>
