@@ -14,7 +14,7 @@ class Education extends Component {
           </p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
-            ducimus eum, sequi perspiciatis distinctio quidem repudiandae
+            sequi perspiciatis distinctio quidem repudiandae
             perferendis inventore esse et?
           </p>
           <p>
